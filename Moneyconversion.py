@@ -11,8 +11,8 @@ window.minsize(width=300,height=150)
 my_label=tkinter.Label(text="0")
 my_label.place(x=80,y=40)
 
-texts=tkinter.Label(text="is eual to ")
-texts.place(x=20,y=40)
+texts=tkinter.Label(text="is equal to: ")
+texts.place(x=23,y=40)
 
 miles=tkinter.Label(text="Dollars")
 miles.place(x=20,y=20)
